@@ -1,0 +1,9 @@
+exclude: |
+    (?x)(
+        ^docs/|
+        ^setup.py|
+        ^__init__.py
+    )
+repos:
+
+
