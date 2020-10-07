@@ -105,3 +105,5 @@ ENV/
 .mypy_cache/
 
 repo_init.sh
+.editorconfig
+.pre-commit-config.yaml
